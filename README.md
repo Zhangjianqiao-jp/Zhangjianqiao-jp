@@ -10,13 +10,6 @@
   <a href="https://github.com/Zhangjianqiao-jp/Humor-generator"><img src="https://img.shields.io/badge/Featured-Humor--generator-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Featured Project" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NLP-Research-2563EB?style=flat-square" alt="NLP" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Transformers-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
-  <img src="https://img.shields.io/badge/Multimodal%20LLM-Vision--Language-14B8A6?style=flat-square" alt="Multimodal LLM" />
-  <img src="https://img.shields.io/badge/Research-Reproducible-22C55E?style=flat-square" alt="Reproducible Research" />
-</p>
 
 ---
 
