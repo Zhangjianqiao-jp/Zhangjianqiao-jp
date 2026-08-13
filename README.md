@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Ryo / Zhang Jianqiao</h1>
+<h1 align="center">Hi, I am Ryo</h1>
 
 <p align="center">
   <b>NLP Master's Student · ML Research Engineer in Progress · Multimodal Generation Explorer</b>
