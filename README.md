@@ -13,94 +13,26 @@
 
 ---
 
-## About Me
-
+## About Me 👋
 I am a master's student in the Department of Advanced Information Technology, Graduate School of Information Science and Electrical Engineering, Kyushu University, focusing on natural language processing. I received my bachelor's degree in Artificial Intelligence from Southeast University.
-
+<p align="center">
+  <a href="https://www.seu.edu.cn/">
+    <img src="https://img.shields.io/badge/Education-Southeast%20University-005BAC?style=for-the-badge" alt="Southeast University" />
+  </a>
+  <a href="https://www.kyushu-u.ac.jp/en/">
+    <img src="https://img.shields.io/badge/Education-Kyushu%20University-8A1538?style=for-the-badge" alt="Kyushu University" />
+  </a>
+</p>
 My current work is centered on building reproducible NLP and machine learning systems, with a special interest in multimodal language generation, preference optimization, evaluation, and research-oriented engineering.
 
-## Current Focus
+Also,I am learning to make live2d models and draw psd. Besides, I am also starting learning to make LLM to generate good models.(But I am just a beginner.)
 
-- Natural language processing and machine learning research engineering
-- Multimodal language models for image-grounded text generation
-- Humorous caption generation and evaluation
-- Supervised fine-tuning, LoRA, candidate generation, and reranking
-- Cleaner experiment pipelines, better evaluation design, and stronger reproducibility
-
-## Featured Project
-
-<table>
-  <tr>
-    <td width="28%">
-      <a href="https://github.com/Zhangjianqiao-jp/Humor-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhangjianqiao-jp&repo=Humor-generator&theme=tokyonight" alt="Humor-generator pinned repository" />
-      </a>
-    </td>
-    <td width="72%">
-      <h3>Humor-generator</h3>
-      <p>
-        A research project for multimodal humorous caption generation using vision-language models. The project explores image-grounded humorous caption generation through data preprocessing, supervised fine-tuning, LoRA adaptation, candidate generation, reranking, and evaluation design.
-      </p>
-      <p>
-        <b>Research direction:</b> multimodal generation, humor evaluation, visual grounding, candidate ranking, and preference-based optimization.
-      </p>
-    </td>
-  </tr>
-</table>
-
-### Research Goals for Humor-generator
-
-- Build a reproducible pipeline for multimodal humorous caption generation
-- Improve candidate generation and ranking quality
-- Design evaluation methods for humor, relevance, and visual grounding
-- Explore preference optimization and smaller specialized model components
-- Document experiments, ablations, limitations, and failure cases clearly
-
-### Engineering Goals for Humor-generator
-
-- Clear dataset and experiment configuration structure
-- Reproducible training and inference scripts
-- Unit tests for data processing and ranking utilities
-- Documented experiment results and ablation studies
-- Separation between source code, generated artifacts, and local-only data
-
-## What I Am Working Toward
-
-I am working to become a research engineer who can connect machine learning theory, NLP experiments, and reliable software implementation. My near-term goals are:
-
-- Turn `Humor-generator` into a complete research-grade repository with documented experiments and reproducible results
-- Build a retrieval-augmented NLP system with explicit citation and hallucination evaluation
-- Create a paper reproduction project that implements baselines, tracks experiments, and writes clear technical reports
-- Improve public project quality through better tests, documentation, configuration management, and experiment tracking
-
-## Technical Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-- Python, PyTorch, Hugging Face Transformers
-- Supervised fine-tuning, LoRA, reranking, evaluation pipelines
-- Data processing with pandas, JSONL, YAML, and reproducible scripts
-- FastAPI, React, TypeScript for applied AI systems
-- Git, GitHub, Linux/macOS research development workflows
-
-## Principles
-
-I value research work that is:
-
-- Reproducible: experiments should be runnable by another engineer or researcher
-- Measurable: claims should be supported by metrics, evaluation protocols, or qualitative analysis
-- Organized: code, configs, data, outputs, and notes should have clear boundaries
-- Honest: project documentation should clearly distinguish completed work from future plans
-- Useful: research prototypes should expose the reasoning, failure cases, and engineering tradeoffs behind them
+## Current Focus 🧐
+-Live2d model's production
+-Diffusion model
+-LLMs' post-training
 
 ## Contact
-
+You can contact me if you like my style or my research and want to chat or cooperate with me.😜
 - Email: [zjianqiao8@gmail.com](mailto:zjianqiao8@gmail.com)
 - X: [@kawayiizjqqqq](https://x.com/kawayiizjqqqq)
