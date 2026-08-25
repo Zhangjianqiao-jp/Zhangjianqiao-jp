@@ -9,7 +9,7 @@
 ## About Me 👋
 I am a master's student in the Department of Advanced Information Technology, Graduate School of Information Science and Electrical Engineering, Kyushu University, focusing on natural language processing. I received my bachelor's degree in Artificial Intelligence from Southeast University.
 
-My current work is centered on building reproducible NLP and machine learning systems, with a special interest in multimodal language generation, preference optimization, evaluation, and research-oriented engineering.
+My current work is centered on building reproducible NLP 、 machine learning systems and Computer Graphics, with a special interest in multimodal language generation, preference optimization, evaluation, and research-oriented engineering.
 
 Also,I am learning to make live2d models and draw psd. Besides, I am also starting learning to make LLM to generate good models.(But I am just a beginner.)
 
