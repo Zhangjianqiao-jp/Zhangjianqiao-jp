@@ -19,7 +19,7 @@ Also,I am learning to make live2d models and draw psd. Besides, I am also starti
 
 -Diffusion model
 
--LLMs' post-training on humorous captioning task especially 3B-7B model.
+-LLMs' post-training on humorous captioning task
 
 ## Contact
 You can contact me if you like my style or my research and want to chat or cooperate with me.😜
