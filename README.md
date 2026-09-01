@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Ryo</h1>
+<h1 align="center">Hi, I am [Ryo](https://zhangjianqiao-jp.github.io/)</h1>
 
 <p align="center">
   <b>NLP Master's Student · ML Research Engineer ·  Multimodal Generation Explorer</b>
@@ -17,9 +17,9 @@ Also,I am learning to make live2d models and draw psd. Besides, I am also starti
 
 -Live2d model's production
 
--Diffusion model
-
 -LLMs' post-training on humorous captioning task
+
+-VR generation
 
 ## Contact
 You can contact me if you like my style or my research and want to chat or cooperate with me.😜
