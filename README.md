@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi, I am <a href="https://zhangjianqiao-jp.github.io/">Ryo</a>
 </h1>
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/pleading-face_1f97a.gif" width="38" />
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=10000&color=78C7FF&center=true&vCenter=true&width=650&lines=Live2D+Generation;Multimodal+Models;Machine+Learning" />
 </p>
