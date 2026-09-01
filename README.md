@@ -15,6 +15,8 @@ My current work is centered on building reproducible NLP 、 machine learning sy
 
 Also,I am learning to make live2d models and draw psd. Besides, I am also starting learning to make LLM to generate good models.(But I am just a beginner.)
 
+I sincerely hope that I can live a real life without pretending.
+
 ## Current Focus 🧐
 
 -Live2d model's production
