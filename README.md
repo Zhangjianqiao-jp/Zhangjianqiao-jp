@@ -2,7 +2,7 @@
   Hi, I am <a href="https://zhangjianqiao-jp.github.io/">Ryo</a>
 </h1>
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=78C7FF&center=true&vCenter=true&width=650&lines=Live2D+Engineer;Multimodal+Models;Machine+Learning" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=78C7FF&center=true&vCenter=true&width=650&lines=Live2D+Generation;Multimodal+Models;Machine+Learning" />
 </p>
 
 ## About Me 👋
