@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am ##[Ryo](https://zhangjianqiao-jp.github.io/)</h1>
+<h1 align="center">Hi, I am #[Ryo](https://zhangjianqiao-jp.github.io/)</h1>
 
 <p align="center">
   <b>NLP Master's Student · ML Research Engineer ·  Multimodal Generation Explorer</b>
