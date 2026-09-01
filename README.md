@@ -27,9 +27,7 @@ I sincerely hope that I can live a real life without pretending.
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zhangjianqiao-jp&show_icons=true&include_all_commits=true)
-## ⏱ Coding Activity
 
-[![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=zhangjianqiao&layout=compact)](https://wakatime.com/)
 ## Contact
 You can contact me if you like my style or my research and want to chat or cooperate with me.😜
 - Email: [zjianqiao8@gmail.com](mailto:zjianqiao8@gmail.com)
