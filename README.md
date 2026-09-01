@@ -13,7 +13,7 @@ I am a master's student in the Department of Advanced Information Technology, Gr
 
 My current work is centered on building reproducible NLP 、 machine learning systems and Computer Graphics, with a special interest in multimodal language generation, preference optimization, evaluation, and research-oriented engineering.
 
-Also,I am learning to make live2d models and draw psd. Besides, I am also starting learning to make LLM to generate good models.(But I am just a beginner.)
+Also,I am learning to make live2d models and draw psd. Because I really love live2d characters. Besides, I am also starting learning to make LLM to generate good live2d models, it is really a hard work.
 
 I sincerely hope that I can live a real life without pretending.
 
