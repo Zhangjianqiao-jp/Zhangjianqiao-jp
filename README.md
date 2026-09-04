@@ -20,7 +20,7 @@ I sincerely hope that I can live a real life without pretending.
 
 -LLMs' post-training on humorous captioning task
 
--VR generation
+-VR generation (Fukuoka mita)
 
 ## 📊 GitHub Activity
 
