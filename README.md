@@ -16,9 +16,9 @@ I sincerely hope that I can live a real life without pretending.
 
 ## Current Focus 🧐
 
--Live2d model's production
+-Live2d model's auto-production
 
--LLMs' post-training on humorous captioning task
+-LLMs' post-training on humorous captioning task (framework)
 
 -VR generation (Fukuoka mita)
 
