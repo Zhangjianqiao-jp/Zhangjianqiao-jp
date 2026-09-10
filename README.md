@@ -16,7 +16,7 @@ I sincerely hope that I can live a real life without pretending.
 
 ## Current Focus 🧐
 
--Live2d model's auto-production
+-Live2d PSD file's auto-production
 
 -LLMs' post-training on humorous captioning task (framework)
 
