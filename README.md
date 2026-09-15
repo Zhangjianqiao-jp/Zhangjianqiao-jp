@@ -5,6 +5,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=10000&color=78C7FF&center=true&vCenter=true&width=650&lines=Live2D+Generation;Multimodal+Models;Machine+Learning" />
 </p>
 
+
 ## About Me 👋
 I am a master's student in the Department of Advanced Information Technology, Graduate School of Information Science and Electrical Engineering, Kyushu University, focusing on natural language processing. I received my bachelor's degree in Artificial Intelligence from Southeast University.
 
